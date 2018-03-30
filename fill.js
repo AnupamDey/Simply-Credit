@@ -29,7 +29,7 @@ async function run() {
   const page = await browser.newPage();
   
   await page.goto('https://www.int.simplycreditinc.com/staging/manage/#signup',40000);
-  //await page.screenshot({ path: 'Screenshots/github.png' });
+  
   await page.click(INVITE_CODE);
   await page.keyboard.type(CREDS.invite);
 
