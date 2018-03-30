@@ -1,0 +1,20 @@
+module.exports = {
+	invite: '123',
+    username: 'trevor.resnek@gmail.com',
+    confirmusername: 'trevor.resnek@gmail.com',
+    password: 'convexhull9870',
+    confirmpassword: 'convexhull9870',
+    firstname: 'trevor',
+    lastname: 'resnek',
+    phone: '000-800-100-3777',
+    address: '123 6th St. Melbourne, FL 32904',
+    city: 'Melbourne',
+    state: 'SC',
+    zip: '32904',
+    ssn: '134697',
+    dobmonth: 'Dec',
+    dobdate: '30',
+    dobyear: '1978',
+    grossannualincome: '65000000',
+    rent: '150000'
+}
