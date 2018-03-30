@@ -1,5 +1,5 @@
 module.exports = {
-	invite: '123',
+    invite: '123',
     username: 'trevor.resnek@gmail.com',
     confirmusername: 'trevor.resnek@gmail.com',
     password: 'convexhull9870',
