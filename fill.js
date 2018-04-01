@@ -1,5 +1,7 @@
-const puppeteer = require('puppeteer');
-const CREDS = require('./creds');
+'use strict';
+let path = require('path');
+const CREDS = require( path.resolve('F:', "./creds.js" ) );
+var puppeteer = require( path.resolve('F:\node_modules', "./puppeteer" ) );
 
 const INVITE_CODE = '#invite_code';
 const USERNAME_SELECTOR = '#email';
